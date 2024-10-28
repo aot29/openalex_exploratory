@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+jupyterlab
+zf
+matplotlib
+gensim
+scipy<1.13
+nltk
+pypdf2
+pyLDAvis
+torch
+transformers
+sentencepiece
+huggingface_hub
+accelerate
